@@ -1,2 +1,3 @@
 # DarkModeToggle
-A simple way to override the iOS13 appearance setting
+
+This is just a demo code to show how the iOS 13 dark mode setting can be overridden per app.
